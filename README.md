@@ -16,7 +16,7 @@ Web application of a friendly bet system, developed for a College project
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,js)](https://skillicons.dev)
 
 **Back-end:** 
-[![My Skills](https://skillicons.dev/icons?i=node,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker)](https://skillicons.dev)
 
 Back-end present in: [Backend repo](https://github.com/joaoPAndrade/TchonBet-back)
 
